@@ -85,26 +85,6 @@ Built using **Streamlit**, featuring:
 
 ---
 
-## 📂 Project Structure
-
-```
-heart-disease-risk-predictor/
-│
-├── app.py                  # Streamlit app
-├── code.ipynb              # EDA + model training
-├── heart.csv               # dataset
-├── SVM_heart.pkl           # trained model (initial)
-├── scaler.pkl              # scaler
-├── columns.pkl             # feature columns
-│
-├── requirements.txt
-├── README.md
-├── .gitignore
-│
-└── assets/
-    └── screenshot.png
-```
-
 ---
 
 ## 🛠 Tech Stack
